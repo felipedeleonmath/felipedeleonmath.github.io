@@ -1,0 +1,60 @@
+---
+title: "Research"
+description: "Research by Felipe de León Sáenz Angel"
+---
+
+# Quiver representations and degenerations
+
+My research concerns geometric spaces constructed from quiver representations and their role in degenerations of linear series. Two central objects are linked projective spaces, which arise as quiver Grassmannians associated with linked nets, and Mustafin varieties, which arise from configurations of lattices. I am interested in the geometry, combinatorics, and tropical structures underlying these spaces, as well as in the relations between them.
+
+## Polymatroidal Tilings and the Chow Class of Linked Projective Spaces
+
+*with Eduardo Esteves*
+
+We use techniques from polymatroid theory to study linked projective spaces and prove that they have the Chow class of the diagonal.
+
+**Main result.** We show that linked projective spaces have the same Chow class as the diagonal.
+
+::: {.project-links}
+[Bulletin of the London Mathematical Society](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/blms.70370) · [DOI: 10.1112/blms.70370](https://doi.org/10.1112/blms.70370)
+:::
+
+---
+
+## Linked projective spaces and Deligne schemes
+
+*with Eduardo Esteves and Carlos Urtrecho — in preparation*
+
+Mustafin varieties associated with convex configurations of lattices provide natural degenerations of projective spaces, known in this setting as Deligne schemes. Their special fibers can be described through quiver representations obtained from the relative positions of the lattices. On the other hand, linked projective spaces arise as quiver Grassmannians associated with linked nets, a class of quiver representations naturally appearing in degenerations of linear series.
+
+In this work, we study the combinatorial structure shared by these two classes of quiver representations. We isolate a collection of intrinsic properties—exactness, path independence, a triangulation condition, and an intersection property for kernels—and show that the representations arising from convex lattice configurations satisfy them. Conversely, these properties allow us to reconstruct the combinatorial structure of an exact linked net. This provides a bridge between the representation-theoretic geometry of linked projective spaces and the geometry of Deligne schemes.
+
+**Main result.** From the intrinsic linear-algebraic data of the representation, we construct a canonical realization of its quiver inside a $\mathbb Z^n$-quiver. This realization preserves adjacency and is convex in the appropriate combinatorial sense. As a consequence, we reconstruct an exact linked net producing the same quiver Grassmannian, thereby connecting the quiver representations arising from Deligne schemes with linked projective spaces.
+
+---
+
+## The $G^0_d$-scheme for curves of compact type
+
+*in preparation*
+
+We construct a moduli space $G^0_d(X)$ associated with a nodal curve $X$ of compact type. Its points parametrize a line bundle together with a compatible family of one-dimensional spaces of sections of its twists, organized as a linked representation over the quiver of multidegrees. The fibers over the Jacobian are linked projective spaces.
+
+The construction comes with a natural morphism
+
+$$
+\Psi_d:G^0_d(X)\longrightarrow \operatorname{Hilb}^d(X),
+$$
+
+obtained from the common zero locus of the compatible sections.
+
+**Main result.** We construct a projective moduli space $G^0_d(X)$ over the Jacobian of a compact-type nodal curve whose fibers are linked projective spaces. The compatible sections parametrized by $G^0_d(X)$ define a natural surjective morphism to the Hilbert scheme of $d$ points of $X$, providing a bridge between quiver-theoretic degenerations of spaces of sections and the geometry of effective divisors on the curve.
+
+---
+
+## Multigraded Hilbert polynomials of linked projective spaces
+
+*with Eduardo Esteves and Eduardo Vital — in preparation*
+
+We study the multigraded Hilbert polynomial of a linked projective space with respect to its natural embedding in a product of projective spaces. The normal-crossings structure reduces the problem to understanding the Hilbert polynomials of the irreducible components and their intersections, which in turn are controlled by the combinatorics of the underlying linked net.
+
+**Main result.** *To be added once the final formula is settled.*
