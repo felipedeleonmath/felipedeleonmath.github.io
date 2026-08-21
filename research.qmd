@@ -7,6 +7,12 @@ description: "Research by Felipe de León Sáenz Angel"
 
 My research concerns geometric spaces constructed from quiver representations and their role in degenerations of linear series. Two central objects are linked projective spaces, which arise as quiver Grassmannians associated with linked nets, and Mustafin varieties, which arise from configurations of lattices. I am interested in the geometry, combinatorics, and tropical structures underlying these spaces, as well as in the relations between them.
 
+Linked projective spaces are central to this program. In joint work with Eduardo Esteves, we used techniques from polymatroid theory to compute their Chow class, and in ongoing work with Eduardo Esteves and Eduardo Vital we study their multigraded Hilbert polynomial.
+
+Mustafin varieties provide another natural class of degenerations closely related to these constructions. In ongoing work with Eduardo Esteves and Carlos Urtrecho, we compare the quiver representations underlying both settings and show that the relevant Deligne schemes can be interpreted in terms of linked projective spaces.
+
+Finally, we apply these ideas to the geometry of linear series on reducible curves. In the $G^0_d$ project, we construct a moduli space whose fibers are linked projective spaces and relate it to the Hilbert scheme of points.
+
 ## Polymatroidal Tilings and the Chow Class of Linked Projective Spaces
 
 *with Eduardo Esteves*
