@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research concerns geometric spaces constructed from quiver representations and their role in degenerations of linear series. Two central objects are linked projective spaces, which arise as quiver Grassmannians associated with linked nets, and Mustafin varieties, which arise from configurations of lattices. I am interested in the geometry, combinatorics, and tropical structures underlying these spaces, as well as in the relations between them.\n\n\nwith Eduardo Esteves\nWe use techniques from polymatroid theory to study linked projective spaces and prove that they have the Chow class of the diagonal.\nMain result. We show that linked projective spaces have the same Chow class as the diagonal.\n\nBulletin of the London Mathematical Society · DOI: 10.1112/blms.70370\n\n\n\n\n\nwith Eduardo Esteves and Carlos Urtrecho — in preparation\nMustafin varieties associated with convex configurations of lattices provide natural degenerations of projective spaces, known in this setting as Deligne schemes. Their special fibers can be described through quiver representations obtained from the relative positions of the lattices. On the other hand, linked projective spaces arise as quiver Grassmannians associated with linked nets, a class of quiver representations naturally appearing in degenerations of linear series.\nIn this work, we study the combinatorial structure shared by these two classes of quiver representations. We isolate a collection of intrinsic properties—exactness, path independence, a triangulation condition, and an intersection property for kernels—and show that the representations arising from convex lattice configurations satisfy them. Conversely, these properties allow us to reconstruct the combinatorial structure of an exact linked net. This provides a bridge between the representation-theoretic geometry of linked projective spaces and the geometry of Deligne schemes.\nMain result. From the intrinsic linear-algebraic data of the representation, we construct a canonical realization of its quiver inside a \\(\\mathbb Z^n\\)-quiver. This realization preserves adjacency and is convex in the appropriate combinatorial sense. As a consequence, we reconstruct an exact linked net producing the same quiver Grassmannian, thereby connecting the quiver representations arising from Deligne schemes with linked projective spaces.\n\n\n\n\nin preparation\nWe construct a moduli space \\(G^0_d(X)\\) associated with a nodal curve \\(X\\) of compact type. Its points parametrize a line bundle together with a compatible family of one-dimensional spaces of sections of its twists, organized as a linked representation over the quiver of multidegrees. The fibers over the Jacobian are linked projective spaces.\nThe construction comes with a natural morphism\n\\[\n\\Psi_d:G^0_d(X)\\longrightarrow \\operatorname{Hilb}^d(X),\n\\]\nobtained from the common zero locus of the compatible sections.\nMain result. We construct a projective moduli space \\(G^0_d(X)\\) over the Jacobian of a compact-type nodal curve whose fibers are linked projective spaces. The compatible sections parametrized by \\(G^0_d(X)\\) define a natural surjective morphism to the Hilbert scheme of \\(d\\) points of \\(X\\), providing a bridge between quiver-theoretic degenerations of spaces of sections and the geometry of effective divisors on the curve.\n\n\n\n\nwith Eduardo Esteves and Eduardo Vital — in preparation\nWe study the multigraded Hilbert polynomial of a linked projective space with respect to its natural embedding in a product of projective spaces. The normal-crossings structure reduces the problem to understanding the Hilbert polynomials of the irreducible components and their intersections, which in turn are controlled by the combinatorics of the underlying linked net.\nMain result. To be added once the final formula is settled."
+  },
+  {
+    "objectID": "research.html#polymatroidal-tilings-and-the-chow-class-of-linked-projective-spaces",
+    "href": "research.html#polymatroidal-tilings-and-the-chow-class-of-linked-projective-spaces",
+    "title": "Research",
+    "section": "",
+    "text": "with Eduardo Esteves\nWe use techniques from polymatroid theory to study linked projective spaces and prove that they have the Chow class of the diagonal.\nMain result. We show that linked projective spaces have the same Chow class as the diagonal.\n\nBulletin of the London Mathematical Society · DOI: 10.1112/blms.70370"
+  },
+  {
+    "objectID": "research.html#linked-projective-spaces-and-deligne-schemes",
+    "href": "research.html#linked-projective-spaces-and-deligne-schemes",
+    "title": "Research",
+    "section": "",
+    "text": "with Eduardo Esteves and Carlos Urtrecho — in preparation\nMustafin varieties associated with convex configurations of lattices provide natural degenerations of projective spaces, known in this setting as Deligne schemes. Their special fibers can be described through quiver representations obtained from the relative positions of the lattices. On the other hand, linked projective spaces arise as quiver Grassmannians associated with linked nets, a class of quiver representations naturally appearing in degenerations of linear series.\nIn this work, we study the combinatorial structure shared by these two classes of quiver representations. We isolate a collection of intrinsic properties—exactness, path independence, a triangulation condition, and an intersection property for kernels—and show that the representations arising from convex lattice configurations satisfy them. Conversely, these properties allow us to reconstruct the combinatorial structure of an exact linked net. This provides a bridge between the representation-theoretic geometry of linked projective spaces and the geometry of Deligne schemes.\nMain result. From the intrinsic linear-algebraic data of the representation, we construct a canonical realization of its quiver inside a \\(\\mathbb Z^n\\)-quiver. This realization preserves adjacency and is convex in the appropriate combinatorial sense. As a consequence, we reconstruct an exact linked net producing the same quiver Grassmannian, thereby connecting the quiver representations arising from Deligne schemes with linked projective spaces."
+  },
+  {
+    "objectID": "research.html#the-g0_d-scheme-for-curves-of-compact-type",
+    "href": "research.html#the-g0_d-scheme-for-curves-of-compact-type",
+    "title": "Research",
+    "section": "",
+    "text": "in preparation\nWe construct a moduli space \\(G^0_d(X)\\) associated with a nodal curve \\(X\\) of compact type. Its points parametrize a line bundle together with a compatible family of one-dimensional spaces of sections of its twists, organized as a linked representation over the quiver of multidegrees. The fibers over the Jacobian are linked projective spaces.\nThe construction comes with a natural morphism\n\\[\n\\Psi_d:G^0_d(X)\\longrightarrow \\operatorname{Hilb}^d(X),\n\\]\nobtained from the common zero locus of the compatible sections.\nMain result. We construct a projective moduli space \\(G^0_d(X)\\) over the Jacobian of a compact-type nodal curve whose fibers are linked projective spaces. The compatible sections parametrized by \\(G^0_d(X)\\) define a natural surjective morphism to the Hilbert scheme of \\(d\\) points of \\(X\\), providing a bridge between quiver-theoretic degenerations of spaces of sections and the geometry of effective divisors on the curve."
+  },
+  {
+    "objectID": "research.html#multigraded-hilbert-polynomials-of-linked-projective-spaces",
+    "href": "research.html#multigraded-hilbert-polynomials-of-linked-projective-spaces",
+    "title": "Research",
+    "section": "",
+    "text": "with Eduardo Esteves and Eduardo Vital — in preparation\nWe study the multigraded Hilbert polynomial of a linked projective space with respect to its natural embedding in a product of projective spaces. The normal-crossings structure reduces the problem to understanding the Hilbert polynomials of the irreducible components and their intersections, which in turn are controlled by the combinatorics of the underlying linked net.\nMain result. To be added once the final formula is settled."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "The linked projective space. Bielefeld Algebraic and Arithmetic Geometry Seminar, Bielefeld University, 2025.\nPolyhedral tilings arising from linked nets. Combinatorial Synergies in Geometry and Number Theory, Instituto de Matemática Pura e Aplicada (IMPA), 2025.\nPolyhedral tilings arising from linked nets. Oficina Pernambucana de Geometria e Álgebra, Universidade Federal de Pernambuco, 2025."
+  },
+  {
+    "objectID": "talks.html#selected-talks",
+    "href": "talks.html#selected-talks",
+    "title": "Talks",
+    "section": "",
+    "text": "The linked projective space. Bielefeld Algebraic and Arithmetic Geometry Seminar, Bielefeld University, 2025.\nPolyhedral tilings arising from linked nets. Combinatorial Synergies in Geometry and Number Theory, Instituto de Matemática Pura e Aplicada (IMPA), 2025.\nPolyhedral tilings arising from linked nets. Oficina Pernambucana de Geometria e Álgebra, Universidade Federal de Pernambuco, 2025."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "My complete academic CV is available as a PDF.\nDownload CV"
+  },
+  {
+    "objectID": "index.html#postdoctoral-researcher",
+    "href": "index.html#postdoctoral-researcher",
+    "title": "Felipe de León Sáenz Angel",
+    "section": "Postdoctoral Researcher",
+    "text": "Postdoctoral Researcher\nUniversidad de Santiago de Chile\nI am interested in applying methods from quiver representations and tropical geometry to the study of degenerations of linear series.\n\nMustafin varieties · Quiver representations · Tropical convexity · Degenerations of linear series\n\n\nEmail · CV · Research"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Felipe de León Sáenz Angel",
+    "section": "About",
+    "text": "About\nMy research focuses on the geometry of linked projective spaces and their role in degenerations of linear series. In joint work with Eduardo Esteves, we use techniques from polymatroid theory to compute their Chow class, and in ongoing work with Eduardo Esteves and Eduardo Vital we study their multigraded Hilbert polynomial. A central open question is to understand precisely when linked projective spaces arise from geometric degenerations.\nMustafin varieties provide another natural class of degenerations closely related to these constructions. In ongoing work with Eduardo Esteves and Carlos Urtrecho, we compare the quiver representations underlying both settings and show that the relevant Deligne schemes can be interpreted in terms of linked projective spaces.\nFinally, we apply these ideas to the geometry of linear series on reducible curves. In the \\(G^0_d\\) project, we construct a moduli space whose fibers are linked projective spaces and relate it to the Hilbert scheme of points."
+  },
+  {
+    "objectID": "index.html#selected-research",
+    "href": "index.html#selected-research",
+    "title": "Felipe de León Sáenz Angel",
+    "section": "Selected Research",
+    "text": "Selected Research\n\nPolymatroidal Tilings and the Chow Class of Linked Projective Spaces\nwith Eduardo Esteves\nWe use techniques from polymatroid theory to study linked projective spaces and prove that they have the Chow class of the diagonal.\n\n\nLinked projective spaces and Deligne schemes\nwith Eduardo Esteves and Carlos Urtrecho — in preparation\nWe study the quiver representations arising from convex lattice configurations associated with Deligne schemes. We introduce a combinatorial framework that captures their main structural properties and use it to relate Deligne schemes to linked projective spaces.\n\n\nThe \\(G^0_d\\)-scheme for curves of compact type\nin preparation\nWe construct a moduli space over the Jacobian of a nodal curve of compact type whose fibers are linked projective spaces, together with a natural morphism to the Hilbert scheme of points.\n\n\nMultigraded Hilbert polynomials of linked projective spaces\nwith Eduardo Esteves and Eduardo Vital — in preparation\nWe study the multigraded Hilbert polynomial of linked projective spaces with respect to their natural embedding in a product of projective spaces.\nExplore my research →"
+  }
+]
