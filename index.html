@@ -75,35 +75,6 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -160,13 +131,9 @@ window.Quarto = {
 <div class="hero">
 <section id="felipe-de-león-sáenz-angel" class="level1 hero-copy">
 <h1>Felipe de León Sáenz Angel</h1>
-<section id="postdoctoral-researcher" class="level2">
-<h2 class="anchored" data-anchor-id="postdoctoral-researcher">Postdoctoral Researcher</h2>
+<section id="research-assistant" class="level2">
+<h2 class="anchored" data-anchor-id="research-assistant">Research Assistant</h2>
 <p>Universidad de Santiago de Chile</p>
-<p>I am interested in applying methods from quiver representations and tropical geometry to the study of degenerations of linear series.</p>
-<div class="keywords">
-<p>Mustafin varieties · Quiver representations · Tropical convexity · Degenerations of linear series</p>
-</div>
 <div class="profile-links">
 <p><a href="mailto:felipedeleon.math@gmail.com">Email</a> · <a href="./cv.html">CV</a> · <a href="./research.html">Research</a></p>
 </div>
@@ -178,35 +145,10 @@ window.Quarto = {
 </div>
 <section id="about" class="level2">
 <h2 class="anchored" data-anchor-id="about">About</h2>
-<p>My research focuses on the geometry of linked projective spaces and their role in degenerations of linear series. In joint work with Eduardo Esteves, we use techniques from polymatroid theory to compute their Chow class, and in ongoing work with Eduardo Esteves and Eduardo Vital we study their multigraded Hilbert polynomial. A central open question is to understand precisely when linked projective spaces arise from geometric degenerations.</p>
-<p>Mustafin varieties provide another natural class of degenerations closely related to these constructions. In ongoing work with Eduardo Esteves and Carlos Urtrecho, we compare the quiver representations underlying both settings and show that the relevant Deligne schemes can be interpreted in terms of linked projective spaces.</p>
-<p>Finally, we apply these ideas to the geometry of linear series on reducible curves. In the <span class="math inline">\(G^0_d\)</span> project, we construct a moduli space whose fibers are linked projective spaces and relate it to the Hilbert scheme of points.</p>
-</section>
-<section id="selected-research" class="level2">
-<h2 class="anchored" data-anchor-id="selected-research">Selected Research</h2>
-<section id="polymatroidal-tilings-and-the-chow-class-of-linked-projective-spaces" class="level3">
-<h3 class="anchored" data-anchor-id="polymatroidal-tilings-and-the-chow-class-of-linked-projective-spaces"><a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/blms.70370">Polymatroidal Tilings and the Chow Class of Linked Projective Spaces</a></h3>
-<p><em>with Eduardo Esteves</em></p>
-<p>We use techniques from polymatroid theory to study linked projective spaces and prove that they have the Chow class of the diagonal.</p>
-</section>
-<section id="linked-projective-spaces-and-deligne-schemes" class="level3">
-<h3 class="anchored" data-anchor-id="linked-projective-spaces-and-deligne-schemes">Linked projective spaces and Deligne schemes</h3>
-<p><em>with Eduardo Esteves and Carlos Urtrecho — in preparation</em></p>
-<p>We study the quiver representations arising from convex lattice configurations associated with Deligne schemes. We introduce a combinatorial framework that captures their main structural properties and use it to relate Deligne schemes to linked projective spaces.</p>
-</section>
-<section id="the-g0_d-scheme-for-curves-of-compact-type" class="level3">
-<h3 class="anchored" data-anchor-id="the-g0_d-scheme-for-curves-of-compact-type">The <span class="math inline">\(G^0_d\)</span>-scheme for curves of compact type</h3>
-<p><em>in preparation</em></p>
-<p>We construct a moduli space over the Jacobian of a nodal curve of compact type whose fibers are linked projective spaces, together with a natural morphism to the Hilbert scheme of points.</p>
-</section>
-<section id="multigraded-hilbert-polynomials-of-linked-projective-spaces" class="level3">
-<h3 class="anchored" data-anchor-id="multigraded-hilbert-polynomials-of-linked-projective-spaces">Multigraded Hilbert polynomials of linked projective spaces</h3>
-<p><em>with Eduardo Esteves and Eduardo Vital — in preparation</em></p>
-<p>We study the multigraded Hilbert polynomial of linked projective spaces with respect to their natural embedding in a product of projective spaces.</p>
-<p><a href="./research.html" class="more-link">Explore my research →</a></p>
+<p>I completed my PhD in Mathematics in February 2026 at the <a href="https://impa.br/">Instituto de Matemática Pura e Aplicada (IMPA)</a>, under the supervision of Eduardo Esteves. I am currently a research assistant at the <a href="https://www.usach.cl/">Universidad de Santiago de Chile</a>, supervised by <a href="https://www.magister.dmcc.usach.cl/profesores-del-programa/nicolas-theriault/">Nicolas Thériault</a>. My position is funded by <a href="https://dicyt.usach.cl/">DICYT</a>.</p>
+<p>I am interested in applying methods from quiver representations and tropical geometry to the study of degenerations of linear series.</p>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
