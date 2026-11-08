@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - googlef2f37e139b17294a.html
 
 website:
   title: "Felipe de León"
