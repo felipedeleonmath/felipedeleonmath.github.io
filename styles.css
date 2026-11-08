@@ -63,12 +63,14 @@ a {
   letter-spacing: -0.035em;
 }
 
-.hero h2 {
-  margin: 0.8rem 0 0;
-  padding: 0;
-  border: 0;
-  font-size: 1.25rem;
+.affiliation {
+  margin-top: 0.9rem;
   color: var(--accent);
+  font-size: 1.08rem;
+}
+
+.affiliation p {
+  margin-bottom: 0;
 }
 
 .keywords {
@@ -102,13 +104,6 @@ a {
   object-position: 50% 42%;
 }
 
-.more-link {
-  display: inline-block;
-  margin-top: 1.25rem;
-  font-weight: 600;
-  text-decoration: none;
-}
-
 .project-links,
 .cv-placeholder {
   margin-top: 1rem;
@@ -116,6 +111,19 @@ a {
   background: var(--accent-soft);
   color: var(--muted);
   border-left: 3px solid var(--accent);
+}
+
+.publication-entry {
+  margin: 1.5rem 0 2.4rem;
+  padding-bottom: 0.25rem;
+}
+
+.publication-entry h3 {
+  margin-bottom: 0.45rem;
+}
+
+.publication-entry > p {
+  margin-bottom: 0.75rem;
 }
 
 @media (max-width: 700px) {
