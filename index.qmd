@@ -9,22 +9,54 @@ body-classes: home-page
 ::: {.hero-copy}
 # Felipe de León Sáenz Angel
 
-## Research Assistant
-
-Universidad de Santiago de Chile
+::: {.affiliation}
+[Université Paris-Saclay](https://www.universite-paris-saclay.fr/) · [Laboratoire de Mathématiques d'Orsay (LMO)](https://www.imo.universite-paris-saclay.fr/fr/la-recherche/)
+:::
 
 ::: {.profile-links}
-[Email](mailto:felipedeleon.math@gmail.com) · [CV](cv.qmd) · [Research](research.qmd)
+[Email](mailto:felipedeleon.math@gmail.com) · [CV](files/cv.pdf) · [ORCID](https://orcid.org/0009-0000-8266-4414)
 :::
 :::
 
 ::: {.portrait}
-![](images/profile.jpg){.profile-photo}
+![](images/profile.jpg){.profile-photo fig-alt="Portrait of Felipe de León Sáenz Angel"}
 :::
 :::
 
 ## About
 
-I completed my PhD in Mathematics in February 2026 at the [Instituto de Matemática Pura e Aplicada (IMPA)](https://impa.br/), under the supervision of Eduardo Esteves. I am currently a research assistant at the [Universidad de Santiago de Chile](https://www.usach.cl/), supervised by [Nicolas Thériault](https://www.magister.dmcc.usach.cl/profesores-del-programa/nicolas-theriault/). My position is funded by [DICYT](https://dicyt.usach.cl/).
+I am currently based at the [Laboratoire de Mathématiques d'Orsay (LMO)](https://www.imo.universite-paris-saclay.fr/fr/la-recherche/), Université Paris-Saclay. My current position is funded by the [CAPES/Cofecub program](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/bolsas-e-auxilios-internacionais/encontre-aqui/paises/franca/cofecub). I completed my PhD in Mathematics in February 2026 at the [Instituto de Matemática Pura e Aplicada (IMPA)](https://impa.br/), under the supervision of Eduardo Esteves.
 
-I am interested in applying methods from quiver representations and tropical geometry to the study of degenerations of linear series.
+Before joining LMO, I was a research assistant at the [Universidad de Santiago de Chile](https://www.usach.cl/), working with [Nicolas Thériault](https://www.magister.dmcc.usach.cl/profesores-del-programa/nicolas-theriault/). This position was funded by [DICYT](https://dicyt.usach.cl/).
+
+My research lies at the intersection of algebraic geometry, quiver representations, and tropical and polyhedral geometry. I am particularly interested in degenerations of linear series, linked projective spaces, and Mustafin varieties.
+
+## Publications
+
+::: {.publication-entry}
+### Polymatroidal tilings and the Chow class of linked projective spaces
+
+*with Eduardo Esteves*
+
+**Bulletin of the London Mathematical Society** 58 (2026), e70370.
+
+We use polymatroidal tilings to compute the Chow class of a linked projective space and prove that it has the same Chow class as the small diagonal.
+
+::: {.project-links}
+[Journal](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/blms.70370) · [DOI](https://doi.org/10.1112/blms.70370) · [arXiv](https://arxiv.org/abs/2508.14799)
+:::
+:::
+
+::: {.publication-entry}
+### On the Hilbert polynomial of the linked projective space
+
+*with Eduardo Esteves and Eduardo Vital*
+
+**arXiv:2609.37634** (2026).
+
+We prove that linked projective spaces have the multivariate Hilbert polynomial of the small diagonal. The proof combines a Hilbert-polynomial formula for simple normal-crossings schemes with the polymatroidal tiling associated with a linked net.
+
+::: {.project-links}
+[arXiv](https://arxiv.org/abs/2609.37634) · [PDF](https://arxiv.org/pdf/2609.37634)
+:::
+:::

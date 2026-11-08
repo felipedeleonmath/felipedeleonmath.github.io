@@ -1,8 +1,0 @@
----
-title: "CV"
-description: "Curriculum vitae of Felipe de León Sáenz Angel"
----
-
-My complete academic CV is available as a PDF.
-
-[Download CV](files/cv.pdf){.btn .btn-primary}
